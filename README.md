@@ -1,2 +1,2 @@
 # Cognizance2020
-This is only for explanation.
+Task-3.txt is the file that has to be created accorfing to the task. Others are created only for PDF explanation.
