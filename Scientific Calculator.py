@@ -130,6 +130,7 @@ while choice <= 14:
         choice = int(input("What operation do you like to do next? Please select the number:"))
     elif Continue == 0:
         print("Thanks for using our scientific calculator!!")
+        break
     else:
         print("Invalid input")
         break
