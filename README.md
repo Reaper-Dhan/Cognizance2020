@@ -230,6 +230,10 @@ Thanks for using our scientific calculator!!
  This is README (Markdown) file that displays the information about Python, and the process taken place int this project.
 
 ---
+### To view my other projects in Cognizance...
+[Cognizance2020](https://github.com/Dhan2623/Cognizance2020)
+
+---
 
 ### Contact :
 **GitHub Email ID** : dhanvineshk2003@gmail.com
