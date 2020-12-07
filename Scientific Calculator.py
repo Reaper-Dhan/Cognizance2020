@@ -125,7 +125,7 @@ while choice <= 14:
         x14=float(input("Enter a: "))
         result14=floor(x14)
         print("The floor of",x14,"is: ",result14)
-    Continue=int(input("Do you like to continue to perform other operation? (YES-1)/(NO-0) "))
+    Continue=int(input("Do you like to continue to perform other operation? (YES-->'1')/(NO-->'0') "))
     if Continue == 1:
         choice = int(input("What operation do you like to do next? Please select the number:"))
     elif Continue == 0:
