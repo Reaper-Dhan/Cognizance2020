@@ -71,6 +71,10 @@ A calculator is a device that performs arithmetic operations on numbers. The sim
 | Power            |    **    |
 | Remainder        |    %     |
 | Square           |    **2   |
+
+
+![Arithmetic operations](https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/79/1f/d1/791fd19d-6ce0-8728-ab31-d2723d660484/source/512x512bb.jpg)
+
 ---
 ---
 | Operations that can be done       | In- built Functions used |
@@ -82,6 +86,8 @@ A calculator is a device that performs arithmetic operations on numbers. The sim
 |Tangent Function  |math.tan()  | 
 |Ceil              |math.ceil() |
 |Floor             |math.floor()|
+
+![Trignometric funcions](https://satprepget800.com/wp-content/uploads/2014/06/TrigFunctions.png)
 ---
 
 >**NOTE --** *All these in-built functions are available in the python library "math"*.
