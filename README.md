@@ -1,7 +1,7 @@
 # Scientific Calculator 
 ## Using **Python**
 ---
-> Student Info
+> Student Info 👨‍🎓
 
 **NAME :**  Dhanvinesh K
 
@@ -15,7 +15,7 @@
 
 ---
 
-> Project Info
+> Project Info 💻
 
 This project is a simple scientific calculator written in Python that performs operations like.... *addition, subtraction, multiplication, and many more*.
 
@@ -25,7 +25,7 @@ This project is done for Cognizance 2020 as Task-4.
  ---
  *You can find this project in this link below...* 👇
 
- [Task-4](https://github.com?Dhan2623/Cognizance2020)
+ [Task-4](https://github.com/Dhan2623/Cognizance2020/tree/task4)
 
 ---
 ---
@@ -37,12 +37,12 @@ Python is an interpreted, high-level and general-purpose programming language.
 
  Python's design philosophy emphasizes code readability with its notable use of significant whitespace. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects. 
  
- It was created and released by Guido Van Rossum.
+ It was created and released by Guido Van Rossum. And he's here 👇
 
 ![Guido Van Rossum](https://www.tutorjoes.in/img/python.png)
 
 
-*To know more about python.. try this website...*
+*To know more about python.. Try this website...*
 [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
 
 *To download this programming language, use this link...*
@@ -60,7 +60,7 @@ A calculator is a device that performs arithmetic operations on numbers. The sim
 ![Calculator Animation](https://www.clker.com/cliparts/2/6/8/3/15168308841567480746graphing-calculator-clipart.med.png)
 
 ---
-> Operations that you can perform using my scientic calculator
+> Operations that you can perform using my scientific calculator 👇
 
 | Operations that can be done |Operators used   |
 | ---------------- | ---------|
@@ -205,7 +205,7 @@ Thanks for using our scientific calculator!!
 > That's how the output screen of our calcuator looks like!!
 ---
 
-## Refernces for Beginners to learn Python programming:
+## References for Beginners to learn Python programming:
 [Getting Started](https://www.python.org/about/gettingstarted/)
 
 [Basics and Tutorials](https://www.learnpython.org/)
@@ -216,11 +216,11 @@ Thanks for using our scientific calculator!!
 
 > Or you can buy some courses in the following platforms...
 
-* [Udemy](https://www.udemy.com/topic/python/) -- Paid course
+* [Udemy](https://www.udemy.com/topic/python/) -- Paid course 🤑
 
-* [Coursera](https://www.coursera.org/learn/python) -- Free course
+* [Coursera](https://www.coursera.org/learn/python) -- Free course 🤩
 
-* [Udacity](https://www.udacity.com/course/introduction-to-python--ud1110) -- Free course
+* [Udacity](https://www.udacity.com/course/introduction-to-python--ud1110) -- Free course 😍
 
 ---
 **MORE INFO :**
@@ -235,7 +235,7 @@ Thanks for using our scientific calculator!!
 
 ---
 
-### Contact :
+### Contact 🤝:
 **GitHub Email ID** : dhanvineshk2003@gmail.com
 
 **GitHub Username** : Dhan2623
