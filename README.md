@@ -51,8 +51,15 @@ Python is an interpreted, high-level and general-purpose programming language.
 ---
 ## Project- Scientific calculator
 ---
+**What is a calculator?**
+---
+A calculator is a device that performs arithmetic operations on numbers. The simplest calculators can do only addition, subtraction, multiplication, and division. More sophisticated calculators like scientific calculators can handle exponential operations, roots, logarithms, trigonometric functions, and hyperbolic functions.
+
+*We have created a calculator that performs all the arithmetic operations and some of the operations that can be performed in scientific calculator.*
+
 ![Calculator Animation](https://www.clker.com/cliparts/2/6/8/3/15168308841567480746graphing-calculator-clipart.med.png)
 
+---
 > Operations that you can perform using my scientic calculator
 
 | Operations that can be done |Operators used   |
