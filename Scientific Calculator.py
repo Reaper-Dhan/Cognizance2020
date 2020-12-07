@@ -1,3 +1,4 @@
+
 import math
 #Operations that can be done using this calculator
 def add(a,b):
@@ -76,7 +77,7 @@ while choice <= 14:
         print("Enter two numbers.....")
         x4=int(input("Enter a: "))
         y4=int(input("Enter b: "))
-        result4=subtract(x4,y4)
+        result4=divide(x4,y4)
         print("The divison of",x4,"by",y4,"is: ",result4)
     elif choice == 5:
         print("Enter a number.....")
@@ -101,7 +102,7 @@ while choice <= 14:
         result8=exp(x8)
         print("The square of",x8,"is: ",result8)
     elif choice == 9:
-        print("Enter a number.....")
+        print("Enter a number.....(integer only)")
         x9=int(input("Enter a: "))
         result9=absolute(x9)
         print("The absolute of",x9,"is: ",result9)
