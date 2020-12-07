@@ -35,7 +35,7 @@ Python is an interpreted, high-level and general-purpose programming language.
 
 ![Python logo](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
 
- Python's design philosophy emphasizes code readability with its notable use of significant whitespace. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects. 
+ Python's design philosophy emphasizes code readability with its notable use of significant whitespace. Its language constructs and object-oriented approach to help programmers write clear, logical code for small and large-scale projects. 
  
  It was created and released by Guido Van Rossum. And he's here 👇
 
@@ -55,7 +55,7 @@ Python is an interpreted, high-level and general-purpose programming language.
 ---
 A calculator is a device that performs arithmetic operations on numbers. The simplest calculators can do only addition, subtraction, multiplication, and division. More sophisticated calculators like scientific calculators can handle exponential operations, roots, logarithms, trigonometric functions, and hyperbolic functions.
 
-*We have created a calculator that performs all the arithmetic operations and some of the operations that can be performed in scientific calculator.*
+*I have created a calculator that performs all the arithmetic operations and some of the operations that can be performed in scientific calculator.*
 
 ![Calculator Animation](https://www.clker.com/cliparts/2/6/8/3/15168308841567480746graphing-calculator-clipart.med.png)
 
@@ -77,7 +77,7 @@ A calculator is a device that performs arithmetic operations on numbers. The sim
 
 ---
 ---
-| Operations that can be done       | In- built Functions used |
+| Operations that can be done       | In-built Functions used |
 | ---------------- | ---------- |
 |Square Root       |math.sqrt() |
 |Absolute          |math.fabs() |
@@ -114,19 +114,20 @@ def sin(x):
     result=math.sin(x)
     return result
 ```
-3. After creating the user-defined fuctions for all the operations, Let's create a list stating specific numbers to specific operations so that we can choose any specific operation to perform using a number. Here, print() function should be used so that the user of the calculator can see the list during execution.
+3. After creating the user-defined functions for all the operations, Let's create a list showing specific numbers to specific operations so that we can choose any specific operation to perform using a number. Here, print() function should be used so that the user of the calculator can see the list during execution.
 
 **(1-Add, 2-Subtract, 3-Product, 4-Division, 5-SquareRoot, 6-Power, 7-Remainder, 8-Square, 9-Absolute, 10-sin(x), 11-cos(x), 12-tan(x), 13-ceil, 14-floor)**
 
 4. Now, let's get the choice from the user which he/she wanted to do.
 
-5. Now, let's create a while loop with a condition, choice <== 14: i.e., If the choice chosen by the user is less than or equal to 14, then the loop gets executed. Orelse the control comes out.
+5. Now, let's create a while loop with a condition, choice <== 14: i.e., If the choice chosen by the user is less than or equal to 14, then the loop gets executed. Or else the control comes out.
 ``` Python
 while choice <= 14:
 ```
 
-6. By using if...elif...else statements, we should create a set of code for getting the inputs required for the operation, and call the function that we should use for that operation.
-*Syntax*
+6. By using if...elif...else statements, we should create a set of code for getting the inputs (parameters) required for the operation, and call the function that we should use for that operation.
+
+*Syntax is...*
 ``` Python
 if <condition_1>:
      <Statements to get the parameters to perform the respective operation>
@@ -139,14 +140,14 @@ else:
      <Statements to get the parameters to perform the respective operation>
 ```
 
-7. To continue performing operations, we can get input whether to continue or not from the user. If yes-1 and if no-0.
+7. To continue performing operations, we can get an input by asking a question from the user. If yes-1 and if no-0.
 
-8. Then we have to create another if loop to continue erforming the operation. If the use press 1 then the whole while loop repeats whereas when the user press 0 or any other number, the loop will break.
+8. Then we have to create another if loop to continue performing the operation. If the user press '1' then the whole while loop repeats whereas when the user press '0' or any other number, the loop will break.
 
 ---
 ## Raw output :
 
-> Let's take this as an example of the ouput in the scientific calculator
+> Let's take this as an example of the output in the scientific calculator
 
 > Press F5 to execute the command and display the output
 
@@ -202,7 +203,7 @@ Do you like to continue to perform other operation? (YES-1)/(NO-0) **0**
 
 Thanks for using our scientific calculator!!
 
-> That's how the output screen of our calcuator looks like!!
+> That's how the output screen of our calculator looks like!! ☝
 ---
 
 ## References for Beginners to learn Python programming:
@@ -214,7 +215,7 @@ Thanks for using our scientific calculator!!
 
 [Python Crash course](https://www.youtube.com/watch?v=rfscVS0vtbw)
 
-> Or you can buy some courses in the following platforms...
+> Or you can buy or learn some courses in the following platforms...
 
 * [Udemy](https://www.udemy.com/topic/python/) -- Paid course 🤑
 
@@ -225,12 +226,12 @@ Thanks for using our scientific calculator!!
 ---
 **MORE INFO :**
 
-*I have uploaded the source code file also in Github repository **'Cognizance2020'***
+*I  uploaded the source code file  in Github repository **'Cognizance2020'***
 
- This is README (Markdown) file that displays the information about Python, and the process taken place int this project.
+ This is a README (Markdown) file that displays the information about Python, and the process taken place in this project.
 
 ---
-### To view my other projects in Cognizance...
+### To view my other projects in Cognizance2020...
 [Cognizance2020](https://github.com/Dhan2623/Cognizance2020)
 
 ---
