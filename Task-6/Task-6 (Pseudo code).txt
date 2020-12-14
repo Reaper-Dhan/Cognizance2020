@@ -1,0 +1,14 @@
+SET sum to 0
+PRINT "Enter a number:"
+GET num
+SET temp to num
+WHILE num is not equal to 0
+     SET rem to num % 10
+     SET sum to sum + (rem*rem*rem)
+     SET num to num/10
+END WHILE
+IF sum is equal to temp
+     PRINT "It is an armstrong number!"
+ELSE
+     PRINT "It is not an armstrong number!"
+END IF
