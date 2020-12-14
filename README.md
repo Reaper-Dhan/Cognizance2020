@@ -1,2 +1,6 @@
 # Cognizance2020
-Task-3.txt is the file that has to be created according to the task. Others are created only for PDF explanation.
+Task-6 is the folder that you wanted to see Please check it.
+There wil be three files...
+1) Pseudo code as .txt file
+2) Flowchart as a pdf file
+3) Flowchart as a flowgorithm
