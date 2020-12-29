@@ -1,3 +1,3 @@
 # Cognizance2020
 
-The folder Task-7 contains the certificate issued by coursera
+Click on the folder Task-7 to view the certificate issued by coursera
