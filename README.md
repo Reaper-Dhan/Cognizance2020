@@ -39,7 +39,7 @@ Python is an interpreted, high-level and general-purpose programming language.
  
  It was created and released by Guido Van Rossum. And he's here 👇
 
-![Guido Van Rossum](https://www.tutorjoes.in/img/python.png)
+![Guido Van Rossum](https://upload.wikimedia.org/wikipedia/commons/e/e2/Guido-portrait-2014-drc.jpg)
 
 
 *To know more about python.. Try this website...*
